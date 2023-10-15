@@ -1,0 +1,14 @@
+OneTwo
+
+Three
+Four
+Five
+
+Systems Arguments are  ['D:\\python\\Python Concepts\\main.py']
+Version of system is 3.11.2 (tags/v3.11.2:878ead1, Feb  7 2023, 16:38:35) [MSC v.1934 64 bit (AMD64)]
+System version info  sys.version_info(major=3, minor=11, micro=2, releaselevel='final', serial=0)
+The standard input stream is  <_io.TextIOWrapper name='<stdin>' mode='r' encoding='utf-8'>
+The standard output stream is  <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+The standard Error stream is  <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>
+The Largest integer of variable is  9223372036854775807
+An integer giving the value of the largest Unicode code point 1114111
